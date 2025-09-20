@@ -1,6 +1,6 @@
 # Face Detection and Recognition System
 
-![Face Detection](https://lh3.googleusercontent.com/gg-dl/AJfQ9KTdoe7Qx0MvA6rAhWbpnXducxK3RrgR_MYi_MVG7o6l8b-H5ftw7sL22KYZAQ0vpEG-1KqF4C0CHaZGdkFRZcyCNIzyVBB5j_ThPcCLDJXd0-SLMkGtlmqXJHd0-zS_rY87TdtbVROBPOijSxvLTVI0qDD260iI6gLev5BnWed3VkXcLQ=s1024)![Uploading image.png…]()
+![Face Detection]
 
 
 ## 📝 Project Overview
