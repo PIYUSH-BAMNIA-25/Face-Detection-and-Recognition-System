@@ -1,6 +1,6 @@
 # Face Detection and Recognition System
 
-![Face Detection](https://imgur.com/G56K9Gq.jpg)
+![Face Detection]([https://imgur.com/G56K9Gq.jpg](https://lh3.googleusercontent.com/gg-dl/AJfQ9KTdoe7Qx0MvA6rAhWbpnXducxK3RrgR_MYi_MVG7o6l8b-H5ftw7sL22KYZAQ0vpEG-1KqF4C0CHaZGdkFRZcyCNIzyVBB5j_ThPcCLDJXd0-SLMkGtlmqXJHd0-zS_rY87TdtbVROBPOijSxvLTVI0qDD260iI6gLev5BnWed3VkXcLQ=s1024))
 
 ## 📝 Project Overview
 This project is a **real-time face detection and recognition system** that identifies individuals from a live video stream. Using **Computer Vision and Deep Learning**, it captures and processes facial images to build a recognition model, which can then identify a person from a live feed.
